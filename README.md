@@ -19,12 +19,18 @@ The process generally involves three steps:
 This repository contains adapters for the following camera models:
 
 *   **Kodak Instamatic 250**
+*   **Kodak Instamatic 500**
+*   **Kodak Retinette 1A**
+*   **Kodak Retina Automatic III**
+*   **Kodak Retina Reflex**
 *   **Rollei SL26**: This adapter is for Rollei's SL26 126 camera, which features a 40mm f/2.8 Tessar, 28mm f/3.2 Pro-Tessar, and 80mm f/4 Pro-Tessar lens. The adapter consists of two parts: a main body and a protective ring.
 *   **Voigtlander Vito Automatic I**: This camera is equipped with a Voigtlander Lanthar 50mm f/2.8 lens.
+*   **Voigtlander Vito CL**, see source file on [OnShape](https://cad.onshape.com/documents/57f2480a93832a109099d55a/w/df74b5b7506d357abf5b014f/e/bfa8caa6a3f07ffc7120eeaa)
 *   **Voigtlander Vito II**
 *   **Voigtlander Vito IIa**
 *   **Zeiss Ikon Contessamat SE**
 *   **Zeiss Ikon Contina II 524/24**
+*   **Zeiss Ikon Continett**, see source file on [OnShape](https://cad.onshape.com/documents/583d811fd88ef310519165ff/w/01c7d7b396e07274ab123d07/e/6638b648352ce127879f8541?renderMode=0&uiState=68a7bfe35242834763591b9f)
 
 Each camera model has a dedicated subfolder containing the necessary design files and a `README.md` with specific instructions.
 
